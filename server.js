@@ -33,7 +33,6 @@ app.post('/events', (req, res) => {
         location,
         maxAttendees
     };
-    let events = [];
     if (fs.existsSync(filePath)) {
         const data = fs.readFileSync(filePath);
         events = JSON.parse(data);

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 1764428018928,
+    "title": "Event",
+    "description": "New Event",
+    "date": "03.05.2025",
+    "location": "Manglore",
+    "maxAttendees": "5"
+  },
+  {
+    "id": 1764428147057,
+    "title": "Event",
+    "description": "New Event",
+    "date": "03.05.2025",
+    "location": "Manglore",
+    "maxAttendees": "5"
+  }
+]
